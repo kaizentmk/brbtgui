@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cbf75c52069bb2f606c0158ef4fba68",
+    "revision": "ceb247bba8af0539d9f9e16e8bd4263a",
     "url": "./index.html"
   },
   {
-    "revision": "9d1a6f3e61e139aaae5c",
-    "url": "./static/css/main.fe3b7b3c.chunk.css"
+    "revision": "7cce73353aab2b56cfc2",
+    "url": "./static/css/main.0e6dc0b6.chunk.css"
   },
   {
     "revision": "90d706b8751be8d2dbf7",
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.62b53ea7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d1a6f3e61e139aaae5c",
+    "revision": "7cce73353aab2b56cfc2",
     "url": "./static/js/main.d1442aed.chunk.js"
   },
   {
     "revision": "d1c4912d83d5a78fb96e",
     "url": "./static/js/runtime-main.2c9c9c70.js"
+  },
+  {
+    "revision": "84a4ed57b8c4d2e2b2383616e183f1f3",
+    "url": "./static/media/AvenueX-Regular.84a4ed57.otf"
   },
   {
     "revision": "da15f9a2416a1a99ad89fd4b21ecad32",
